@@ -1,0 +1,6 @@
+datetime
+bs4
+urllib
+smtplib
+config
+schedule
